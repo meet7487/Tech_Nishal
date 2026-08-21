@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Python course image</title>
+  <desc id="desc">A Python programming course illustration with code blocks and automation flow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eff6ff"/>
+      <stop offset="1" stop-color="#fef3c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <rect x="92" y="88" width="776" height="424" rx="28" fill="#ffffff" stroke="#bfdbfe" stroke-width="4"/>
+  <rect x="150" y="142" width="330" height="82" rx="18" fill="#1e3a8a"/>
+  <text x="182" y="195" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="800">Python</text>
+  <rect x="560" y="140" width="250" height="260" rx="26" fill="#facc15"/>
+  <rect x="590" y="174" width="190" height="64" rx="16" fill="#1d4ed8"/>
+  <circle cx="626" cy="206" r="10" fill="#ffffff"/>
+  <rect x="590" y="278" width="190" height="64" rx="16" fill="#2563eb"/>
+  <circle cx="744" cy="310" r="10" fill="#ffffff"/>
+  <path d="M685 238v40" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <rect x="150" y="278" width="310" height="44" rx="12" fill="#dbeafe"/>
+  <rect x="150" y="346" width="270" height="44" rx="12" fill="#fef3c7"/>
+  <rect x="150" y="414" width="340" height="44" rx="12" fill="#dcfce7"/>
+  <text x="178" y="307" fill="#1e40af" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Core Programming</text>
+  <text x="178" y="375" fill="#92400e" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Automation</text>
+  <text x="178" y="443" fill="#15803d" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">APIs + Projects</text>
+</svg>

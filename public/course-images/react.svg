@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">ReactJS course image</title>
+  <desc id="desc">A bright ReactJS course illustration with component cards and an atom mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef9ff"/>
+      <stop offset="1" stop-color="#d9f99d"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ecfeff"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <rect x="90" y="90" width="780" height="420" rx="28" fill="url(#panel)" stroke="#bae6fd" stroke-width="4"/>
+  <circle cx="690" cy="198" r="72" fill="#cffafe"/>
+  <g fill="none" stroke="#06b6d4" stroke-width="12">
+    <ellipse cx="690" cy="198" rx="134" ry="46"/>
+    <ellipse cx="690" cy="198" rx="134" ry="46" transform="rotate(60 690 198)"/>
+    <ellipse cx="690" cy="198" rx="134" ry="46" transform="rotate(120 690 198)"/>
+  </g>
+  <circle cx="690" cy="198" r="18" fill="#0891b2"/>
+  <rect x="150" y="150" width="360" height="64" rx="14" fill="#0f172a"/>
+  <text x="180" y="193" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="800">ReactJS</text>
+  <rect x="150" y="256" width="250" height="46" rx="12" fill="#dbeafe"/>
+  <rect x="150" y="326" width="320" height="46" rx="12" fill="#ecfeff"/>
+  <rect x="150" y="396" width="210" height="46" rx="12" fill="#dcfce7"/>
+  <text x="180" y="286" fill="#1e40af" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Components</text>
+  <text x="180" y="356" fill="#0e7490" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Hooks + Router</text>
+  <text x="180" y="426" fill="#15803d" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Live Projects</text>
+</svg>

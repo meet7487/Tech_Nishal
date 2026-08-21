@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">SQL course image</title>
+  <desc id="desc">An SQL database course illustration with tables, queries, and report cards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <rect x="88" y="88" width="784" height="424" rx="28" fill="#ffffff" stroke="#bae6fd" stroke-width="4"/>
+  <text x="150" y="174" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900">SQL</text>
+  <ellipse cx="675" cy="178" rx="130" ry="46" fill="#0e7490"/>
+  <path d="M545 178v170c0 25 58 46 130 46s130-21 130-46V178" fill="#cffafe" stroke="#0e7490" stroke-width="6"/>
+  <ellipse cx="675" cy="348" rx="130" ry="46" fill="#e0f2fe" stroke="#0e7490" stroke-width="6"/>
+  <g fill="#dbeafe">
+    <rect x="150" y="244" width="330" height="44" rx="10"/>
+    <rect x="150" y="310" width="280" height="44" rx="10"/>
+    <rect x="150" y="376" width="360" height="44" rx="10"/>
+  </g>
+  <text x="180" y="273" fill="#075985" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">SELECT reports</text>
+  <text x="180" y="339" fill="#075985" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">Joins</text>
+  <text x="180" y="405" fill="#075985" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">Database design</text>
+</svg>
